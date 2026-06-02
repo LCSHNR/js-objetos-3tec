@@ -1,0 +1,284 @@
+[
+  {
+    "nome": "Tony Stark",
+    "email": "ironman@starkindustries.com",
+    "telefone": [
+      "1130405060",
+      "11930405060"
+    ],
+    "endereco": {
+      "logradouro": "Rua Malibu Cliff",
+      "numero": "10880",
+      "cep": "90265",
+      "apartamento": false,
+      "complemento": "Mansão Stark"
+    }
+  },
+  {
+    "nome": "Steve Rogers",
+    "email": "cap@avengers.org",
+    "telefone": [
+      "2125550143",
+      "21925550143"
+    ],
+    "endereco": {
+      "logradouro": "Rua Brooklyn Heights",
+      "numero": "569",
+      "cep": "11201",
+      "apartamento": true,
+      "complemento": "ap 4B"
+    }
+  },
+  {
+    "nome": "Natasha Romanoff",
+    "email": "blackwidow@shield.gov",
+    "telefone": [
+      "4133445566",
+      "41933445566"
+    ],
+    "endereco": {
+      "logradouro": "Rua Budapest",
+      "numero": "14",
+      "apartamento": true,
+      "complemento": "Esconderijo seguro"
+    }
+  },
+  {
+    "nome": "Bruce Banner",
+    "email": "hulk.smash@culver.edu",
+    "telefone": [
+      "3138887766",
+      "31938887766"
+    ],
+    "endereco": {
+      "logradouro": "Rua das Américas",
+      "numero": "05",
+      "apartamento": false
+    }
+  },
+  {
+    "nome": "Thor Odinson",
+    "email": "thor@asgard.realm",
+    "telefone": [
+      "1140028922",
+      "11940028922"
+    ],
+    "endereco": {
+      "logradouro": "Rua Nova Asgard",
+      "numero": "01",
+      "cep": "9800",
+      "apartamento": false
+    }
+  },
+  {
+    "nome": "Peter Parker",
+    "email": "spidey@dailybugle.com",
+    "telefone": [
+      "7132221100",
+      "71932221100"
+    ],
+    "endereco": {
+      "logradouro": "Rua Ingram",
+      "numero": "20",
+      "cep": "11375",
+      "apartamento": true
+    }
+  },
+  {
+    "nome": "Wanda Maximoff",
+    "email": "scarlet@westview.net",
+    "telefone": [
+      "8134449900",
+      "81934449900"
+    ],
+    "endereco": {
+      "logradouro": "Rua Sherwood",
+      "numero": "2800",
+      "apartamento": false
+    }
+  },
+  {
+    "nome": "Carol Danvers",
+    "email": "captainmarvel@nasa.gov",
+    "telefone": [
+      "8436665544",
+      "84936665544"
+    ],
+    "endereco": {
+      "logradouro": "Rua Starforce",
+      "numero": "895",
+      "apartamento": false
+    }
+  },
+  {
+    "nome": "T'Challa",
+    "email": "panther@wakanda.gov",
+    "telefone": [
+      "9130001111",
+      "91930001111"
+    ],
+    "endereco": {
+      "logradouro": "Rua do Vibranium",
+      "numero": "1",
+      "cep": "00100",
+      "apartamento": false,
+      "complemento": "Palácio Real"
+    }
+  },
+  {
+    "nome": "Stephen Strange",
+    "email": "doctor@sanctum.org",
+    "telefone": [
+      "1137778888",
+      "11937778888"
+    ],
+    "endereco": {
+      "logradouro": "Rua Bleecker",
+      "numero": "177A",
+      "apartamento": false,
+      "complemento": "Sanctum Sanctorum"
+    }
+  },
+  {
+    "nome": "Clinton Barton",
+    "email": "hawkeye@shield.gov",
+    "telefone": [
+      "1935552233",
+      "19935552233"
+    ],
+    "endereco": {
+      "logradouro": "Rua da Fazenda",
+      "numero": "42",
+      "cep": "5020",
+      "apartamento": false,
+      "complemento": "Área rural isolada"
+    }
+  },
+  {
+    "nome": "Sam Wilson",
+    "email": "falcon@avengers.org",
+    "telefone": [
+      "2431114455",
+      "24931114455"
+    ],
+    "endereco": {
+      "logradouro": "Rua Louisiana",
+      "numero": "310",
+      "apartamento": false,
+      "complemento": "Perto das docas"
+    }
+  },
+  {
+    "nome": "Scott Lang",
+    "email": "antman@pymtech.com",
+    "telefone": [
+      "4739998877",
+      "47939998877"
+    ],
+    "endereco": {
+      "logradouro": "Rua San Francisco",
+      "numero": "601",
+      "apartamento": true
+    }
+  },
+  {
+    "nome": "Hope van Dyne",
+    "email": "wasp@pymtech.com",
+    "telefone": [
+      "9734442211",
+      "97934442211"
+    ],
+    "endereco": {
+      "logradouro": "Rua Quantum",
+      "numero": "88",
+      "cep": "94102",
+      "apartamento": false
+    }
+  },
+  {
+    "nome": "Nick Fury",
+    "email": "fury@shield.gov",
+    "telefone": [
+      "6831110000",
+      "68931110000"
+    ],
+    "endereco": {
+      "logradouro": "Rua Helicarrier",
+      "numero": "0",
+      "apartamento": true
+    }
+  },
+  {
+    "nome": "Matt Murdock",
+    "email": "matt@murdocklaw.com",
+    "telefone": [
+      "2134445511",
+      "21934445511"
+    ],
+    "endereco": {
+      "logradouro": "Rua Hell's Kitchen",
+      "numero": "22",
+      "apartamento": false,
+      "complemento": "Escritório de advocacia"
+    }
+  },
+  {
+    "nome": "Peter Quill",
+    "email": "star-lord@guardians.space",
+    "telefone": [
+      "3536668899",
+      "35936668899"
+    ],
+    "endereco": {
+      "logradouro": "Rua Milano",
+      "numero": "777",
+      "apartamento": true,
+      "complemento": "Quadrante 4"
+    }
+  },
+  {
+    "nome": "Gamora",
+    "email": "gamora@guardians.space",
+    "telefone": [
+      "7538889900",
+      "75938889900"
+    ],
+    "endereco": {
+      "logradouro": "Rua Zen-Whoberi",
+      "numero": "09",
+      "cep": "X99",
+      "apartamento": true,
+      "complemento": "Nave Mãe"
+    }
+  },
+  {
+    "nome": "Bucky Barnes",
+    "email": "wintersoldier@shield.gov",
+    "telefone": [
+      "9931117766",
+      "99931117766"
+    ],
+    "endereco": {
+      "logradouro": "Rua Madripoor",
+      "numero": "33",
+      "cep": "8844",
+      "apartamento": false,
+      "complemento": "Beco dos fundos"
+    }
+  },
+  {
+    "nome": "Loki Laufeyson",
+    "email": "mischief@asgard.realm",
+    "telefone": [
+      "5130009999",
+      "51930009999"
+    ],
+    "endereco": {
+      "logradouro": "Rua das Ilusões",
+      "numero": "999",
+      "apartamento": false
+    }
+  }
+]
+
+
