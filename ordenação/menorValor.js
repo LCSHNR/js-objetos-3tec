@@ -10,4 +10,4 @@ function menorValor(arrProdutos, posicaoInicial){
     }
     return maisBarato;
 }
-module.exports = menorValor;
+module.exports = menorValor; 
