@@ -1,11 +1,11 @@
 const precoLivros = [
     {
-    titulo: "JavaScrit",
-    preco: 25
+    titulo: "Vade Mecum",
+    preco: 200
     },
      {
-    titulo: "PHP",
-    preco: 25
+    titulo: "Dos Delitos e das Penas",
+    preco: 50
     },
      {
     titulo: "Java",
@@ -24,3 +24,5 @@ const precoLivros = [
     preco: 25
     },
 ]
+
+module.exports = precoLivros;
